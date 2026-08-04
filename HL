@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.honeylua.com/loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Wyn/refs/heads/main/RuzHub_v7_final%20(3)_obfuscated%20(1).lua"))()
